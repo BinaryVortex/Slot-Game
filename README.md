@@ -1,2 +1,2 @@
-# Sloth-Game
-Sloth Game Built Using HTML,CSS And Javascript.
+# Slot-Game
+Slot Game Built Using HTML,CSS And Javascript.
